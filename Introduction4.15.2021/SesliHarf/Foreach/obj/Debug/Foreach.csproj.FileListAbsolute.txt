@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\YenidenC#\Introduction4.15.2021\SesliHarf\Foreach\bin\Debug\Foreach.exe.config
+C:\Users\User\Desktop\YenidenC#\Introduction4.15.2021\SesliHarf\Foreach\bin\Debug\Foreach.exe
+C:\Users\User\Desktop\YenidenC#\Introduction4.15.2021\SesliHarf\Foreach\bin\Debug\Foreach.pdb
+C:\Users\User\Desktop\YenidenC#\Introduction4.15.2021\SesliHarf\Foreach\obj\Debug\Foreach.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\YenidenC#\Introduction4.15.2021\SesliHarf\Foreach\obj\Debug\Foreach.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\YenidenC#\Introduction4.15.2021\SesliHarf\Foreach\obj\Debug\Foreach.exe
+C:\Users\User\Desktop\YenidenC#\Introduction4.15.2021\SesliHarf\Foreach\obj\Debug\Foreach.pdb
