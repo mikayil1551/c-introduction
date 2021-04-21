@@ -1,2 +1,2 @@
 # c-introduction
-rastgele sayilar dizisi
+SesliHarf
